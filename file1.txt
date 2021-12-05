@@ -2,6 +2,4 @@ file1
 dann
 blake
 sam
-ben
-bob
-emma
+nancy
